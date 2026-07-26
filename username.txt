@@ -1,0 +1,4 @@
+USERNAME 1 [twitter1|telegram1|discord1 ,...]
+USERNAME 2 [twitter2|telegram2|discord2 ,...]
+USERNAME 3 [twitter3|telegram3|discord3 ,...]
+...
